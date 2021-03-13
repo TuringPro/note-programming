@@ -1,8 +1,6 @@
 # maven archetype制作
 
-![image-20210313113650240](maven%20archetype%E5%88%B6%E4%BD%9C.assets/image-20210313113650240.png)
-
-
+![image-20210313142819311](https://turing.yang/turingPro/images/image-20210313142819311.png)
 
 ##建设中
 
