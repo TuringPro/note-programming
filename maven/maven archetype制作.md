@@ -10,7 +10,7 @@
 
 例如我们在用idea生成maven项目时，有很多可选的archetype模板，可以自动帮助我们生成一些文件：
 
-<img src="/Users/yanghongwei/Library/Application%20Support/typora-user-images/image-20210313171200475.png" alt="image-20210313171200475" style="zoom:50%;" />
+![image-20210313175524648](https://raw.githubusercontent.com/TuringPro/images/main/image-20210313175524648.png)
 
 那么这些都是即有的模板，我们也可以自己定义一个属于自己的模板。
 
